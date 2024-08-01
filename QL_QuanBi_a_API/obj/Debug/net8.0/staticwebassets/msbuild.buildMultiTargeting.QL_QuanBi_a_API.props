@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QL_QuanBi_a_API.props" />
+</Project>
